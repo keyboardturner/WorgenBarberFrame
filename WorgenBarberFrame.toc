@@ -1,0 +1,7 @@
+## Interface: 80300
+## Title: Worgen Barber Frame
+## Notes: Makes the human form for worgen in the barbershop lorge.
+## Author: Keyboardturner
+## Version: 0.0.1
+
+WorgenBarberFrame.lua
